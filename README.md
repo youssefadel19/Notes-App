@@ -1,8 +1,8 @@
-# Notes App 📓
+# 📓 Notes App 
 
  An app to add and save notes in an easy simple way with different colors for each note category.
 
-![]()
+![](https://github.com/youssefadel19/Notes-App/blob/master/NotesApp.png)
 
 
 # Features
