@@ -1,6 +1,15 @@
-# flutter_application_1
+# Notes App 📓
 
-A new Flutter project.
+ An app to add and save notes in an easy simple way with different colors for each note category.
+
+![]()
+
+
+# Features
+  * Local Database using Hive
+  * State management using Cubit
+  * Simple bloc observer
+  * Responsive UI
 
 ## Getting Started
 
